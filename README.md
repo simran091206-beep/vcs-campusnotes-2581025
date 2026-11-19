@@ -13,3 +13,10 @@ python notes.pyUpdated from second folder
 Run the project using:
 
 python main.py
+## Note Title Formatter
+
+Run the note title formatter with:
+
+python note_tools.py
+
+The formatter removes extra spaces from note titles.
