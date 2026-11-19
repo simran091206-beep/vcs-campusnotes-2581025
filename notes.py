@@ -1,1 +1,1 @@
-print("Welcome to CampusNotes")
+def add_note(note):\n    return note
